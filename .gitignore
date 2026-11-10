@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.wav
+mictest.py
+recordtest.py
+speechtest.py
+voice_test.py
+tools/browser_test.py
+tools/system_test.py
